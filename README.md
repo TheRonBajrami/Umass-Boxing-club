@@ -8,22 +8,22 @@ The site provides details about events, training schedules, membership, and ways
 ## 📱 Demo
 
 ### Home
-![Home](./images/Home.png)
+![Home](./Home.png)
 
 ### Training Schedule
-![Training Schedule](./images/Schedule.png)
+![Training Schedule](./Schedule.png)
 
 ### Events
-![Events](./images/Events.png)
+![Events](./Events.png)
 
 ### About Us
-![About Us](./images/About.png)
+![About Us](./About.png)
 
 ### Membership & FAQs
-![Membership](./images/Membership.png)
+![Membership](./Membership.png)
 
 ### Contact Us
-![Contact Us](./images/SignUp.png)
+![Contact Us](./SignUp.png)
 
 ---
 
